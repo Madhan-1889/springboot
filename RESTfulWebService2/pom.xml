@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example.wipro.project.springboot</groupId>
-	<artifactId>demo1</artifactId>
+	<artifactId>RESTfulWebService2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo1</name>
+	<name>RESTfulWebService2</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
@@ -32,7 +32,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter</artifactId>
+			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
 		<dependency>
